@@ -1,6 +1,13 @@
-# Three.js Journey
+# cute
+
+Small utility to test a design framework for designing cute 3D objects.
+
+![smiley face with debug UI](thumbnail.png)
+Clear coat material technique from [this repo](https://github.com/kellymilligan/codrops-oct-2021-final)
 
 ## Setup
+Template code adapted from a lesson in [three.js journey](https://threejs-journey.com).
+
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
 
